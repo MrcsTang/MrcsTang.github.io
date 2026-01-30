@@ -120,7 +120,7 @@ staticman:
         format           : "iso8601"
 atom_feed:
   hide                   : false
-  path                   
+  path                   : atom.xml
 
 
 # SEO Related
