@@ -10,7 +10,7 @@ title                    : "MrcsTang's Academic Portfolio"
 title_separator          : "-"
 name                     : &name "MrcsTang"
 description              : &description "MrcsTang's academic portfolio - Data Structures & Algorithms"
-url                      : https://MrcsTang.github.io
+url                      : https://mrcstang.github.io
 baseurl                  : ""
 repository               : "MrcsTang/MrcsTang.github.io"
 
